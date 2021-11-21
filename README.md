@@ -21,3 +21,8 @@ For a hardware version using Teensy & LED displays see here: https://github.com/
 
 https://user-images.githubusercontent.com/955307/142713611-d7514a49-bbaa-462b-8e3b-9fe1f043b4a9.mp4
 
+
+Some more examples: 
+https://www.youtube.com/watch?v=fZ3JxfQlj_A
+https://www.youtube.com/watch?v=Y0DqMEkbHkw
+https://www.youtube.com/watch?v=-hYWCuFySls
