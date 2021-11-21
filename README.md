@@ -16,6 +16,9 @@ For a hardware version using Teensy & LED displays see here: https://github.com/
 * Notes played stay visible for a time as a 'histogram'. Key signature can be inferred from this
 * Different instruments (midi channels) are different colours. Can see contributions of each instrument to the whole
 
+All chords have very simple and recognizable shapes, regardless of key:
+
+![Chord shapes](https://github.com/mechatronicsguy/SpiralMusic_python/blob/main/pics/Chord%20shapes%20small%20v01.jpg?raw=true)
 
 
 
