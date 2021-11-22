@@ -5,9 +5,10 @@ For a hardware version using Teensy & LED displays see here: https://github.com/
 
 ## Who is this software for?
 
-People like me, who kinda like music, but are often confused by the notation. 
+Anyone (like me) that likes music, but becomes confused by the notation. 
 
-e.g. Take this picture: Are these **three *different* chords**, or actually **the *same* chord voiced three different ways**? 
+e.g. Take this picture: Are these **three *different* chords**, or is it actually **the *same* chord, but voiced in three different ways**? 
+
 ![Musical notation](https://github.com/mechatronicsguy/SpiralMusic_python/blob/main/pics/4tcqogmi_transposed_v01.png?raw=true)
 
 I could stare at this for a couple of minutes and still not be 100% sure. 
