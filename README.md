@@ -7,13 +7,14 @@ For a hardware version using Teensy & LED displays see here: https://github.com/
 
 People like me, who kinda like music, but are often left confused by the notation. 
 
-e.g. Take this picture: Are these *three different chords*, or actually *the same chord voiced three different ways*? 
+e.g. Take this picture: Are these **three different chords**, or actually **the same chord voiced three different ways**? 
 ![Musical notation](https://github.com/mechatronicsguy/SpiralMusic_python/blob/main/pics/4tcqogmi_transposed_v01.png?raw=true)
 
 I could stare at this for a couple of minutes and still not be 100% sure. 
 
 
 But I could tell immediately after seeing this: 
+
 ![Same Musical notation in spiral GIF form](https://github.com/mechatronicsguy/SpiralMusic_python/blob/main/pics/4tcqogmi%20animation%20full%20v01.gif?raw=true)
 
 ## Software features
