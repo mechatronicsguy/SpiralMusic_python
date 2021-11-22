@@ -11,7 +11,7 @@ e.g. Take this picture: Are these **three *different* chords**, or are they actu
 
 ![Musical notation](https://github.com/mechatronicsguy/SpiralMusic_python/blob/main/pics/4tcqogmi_transposed_v01.png?raw=true)
 
-I could stare at this for a couple of minutes and still not be 100% sure. 
+I could stare at it for a couple of minutes and still not be 100% sure. 
 
 
 But after seeing this I could tell immediately that they are the same:
